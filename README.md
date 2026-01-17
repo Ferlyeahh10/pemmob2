@@ -20,7 +20,7 @@ Berikut adalah cuplikan antarmuka dari My Happiness:
 
 **Ringan & Cepat:** Menggunakan Material Design 3 untuk pengalaman user yang mulus.
 
-##🛠️ **Tech Stack & Library**
+## 🛠️ Tech Stack & Library
 
 **Framework:** Flutter (Dart)
 
