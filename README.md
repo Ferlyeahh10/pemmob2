@@ -7,19 +7,7 @@ Aplikasi diary mobile berbasis Flutter yang dirancang untuk mencatat momen-momen
 ## 📸 Tampilan Aplikasi
 
 Berikut adalah cuplikan antarmuka dari My Happiness:
-< https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.18%20(1).jpeg />
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.18.jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%201
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.19%20(2).jpeg8.52.19%20(1).jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.5
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20%20(1).jpeg2.19.jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20%20(2).jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20.jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21%20(1).jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21%20(2).jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21.jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.22%20(1).jpeg
-https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.22.jpeg
+![WhatsApp Image 2026-01-16 at 18 52 18](https://github.com/user-attachments/assets/e582d6f0-801e-4db1-a598-532bfd6bb4c8)
 
 
 ## 🌟 Fitur Utama
