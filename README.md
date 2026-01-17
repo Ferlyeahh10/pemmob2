@@ -7,7 +7,8 @@ Aplikasi diary mobile berbasis Flutter yang dirancang untuk mencatat momen-momen
 ## 📸 Tampilan Aplikasi
 
 Berikut adalah cuplikan antarmuka dari My Happiness:
-![WhatsApp Image 2026-01-16 at 18 52 18](https://github.com/user-attachments/assets/e582d6f0-801e-4db1-a598-532bfd6bb4c8)
+<img width="150" alt="![WhatsApp Image 2026-01-16 at 18 52 18]" src="(https://github.com/user-attachments/assets/9feebdde-e646-4955-aa12-1efee42c09e5)" />
+![WhatsApp Image 2026-01-16 at 18 52 18 (1)](https://github.com/user-attachments/assets/9d33e8bc-3ef1-4075-97ca-71389b6b4b23)
 
 
 ## 🌟 Fitur Utama
