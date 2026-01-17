@@ -12,7 +12,15 @@ Berikut adalah cuplikan antarmuka dari My Happiness:
 <img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.19%20(1).jpeg" width="50%">
 <img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.19%20(2).jpeg" width="50%">
 <img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.19.jpeg" width="50%">
-<img src="" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20%20(1).jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20%20(2).jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.20.jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21%20(1).jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21%20(2).jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.21.jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.22%20(1).jpeg" width="50%">
+<img src="https://github.com/Ferlyeahh10/pemmob2/blob/main/screenshoot/WhatsApp%20Image%202026-01-16%20at%2018.52.22.jpeg" width="50%">
+
 ## 🌟 Fitur Utama
 
 **Capture Moments:** Catat momen bahagia dengan judul, deskripsi, dan kategori.
