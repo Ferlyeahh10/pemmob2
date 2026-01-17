@@ -11,15 +11,23 @@ Berikut adalah cuplikan antarmuka dari My Happiness:
 ## 🌟 Fitur Utama
 
 **Capture Moments:** Catat momen bahagia dengan judul, deskripsi, dan kategori.
+
 **Pilihan Emoji:** Tersedia 6 kategori emoji (Food, Friends, Hobbies, Nature, Achievement, Feelings).
+
 **Riwayat Chronological:** Semua memori tersusun rapi berdasarkan tanggal terbaru.
+
 **Full Offline:** Data disimpan secara lokal di perangkat menggunakan SharedPreferences.
+
 **Ringan & Cepat:** Menggunakan Material Design 3 untuk pengalaman user yang mulus.
 
 🛠️ **Tech Stack & Library**
+
 **Framework:** Flutter (Dart)
+
 **Storage:** SharedPreferences
+
 **Date Formatting:** intl package
+
 **UI/UX:** Material Design 3
 
 
