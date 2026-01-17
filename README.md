@@ -20,7 +20,7 @@ Berikut adalah cuplikan antarmuka dari My Happiness:
 
 **Ringan & Cepat:** Menggunakan Material Design 3 untuk pengalaman user yang mulus.
 
-🛠️ **Tech Stack & Library**
+##🛠️ **Tech Stack & Library**
 
 **Framework:** Flutter (Dart)
 
@@ -29,7 +29,6 @@ Berikut adalah cuplikan antarmuka dari My Happiness:
 **Date Formatting:** intl package
 
 **UI/UX:** Material Design 3
-
 
 ## 🚀 Cara Menjalankan Project
 Pastikan kamu sudah menginstall Flutter SDK di perangkatmu, lalu ikuti langkah berikut:
